@@ -3,7 +3,6 @@
 ###### Currently learning: 
 <p>
 <img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
-<img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
 
